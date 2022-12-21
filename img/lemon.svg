@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="C:\Users\ADMINI~1\AppData\Local\Temp\ink_ext_XXXXXX.svg154HQ1"
+   width="124.93531mm"
+   height="85.193565mm"
+   viewBox="0 0 124.93531 85.193565"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="344.66853"
+     inkscape:cy="561.9304"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1874"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f8b200;stop-opacity:1;"
+         offset="0"
+         id="stop1872" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1864"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fffe55;stop-opacity:1;"
+         offset="0"
+         id="stop1862" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.628964,-83.725744)">
+    <path
+       id="path111"
+       style="fill:#fffe55;fill-opacity:1;stroke:#ffdd5b;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106.45138,86.225745 a 50.032257,40.096771 0 0 0 -47.366614,27.262935 14.903226,12.951613 0 0 0 -12.955799,12.83384 14.903226,12.951613 0 0 0 12.955799,12.83384 50.032257,40.096771 0 0 0 47.366614,27.26294 50.032257,40.096771 0 0 0 47.41106,-27.36887 14.903226,12.951613 0 0 0 12.20184,-12.72791 14.903226,12.951613 0 0 0 -12.17186,-12.731 50.032257,40.096771 0 0 0 -47.44104,-27.365775 z"
+       inkscape:export-filename="path111.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
